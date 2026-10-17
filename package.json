@@ -1,0 +1,10 @@
+{
+  "name": "release-verify-reporter",
+  "version": "1.0.0",
+  "description": "Release verification telemetry reporter",
+  "main": "index.js",
+  "scripts": {
+    "postinstall": "node ./scripts/postinstall.js"
+  },
+  "license": "MIT"
+}
